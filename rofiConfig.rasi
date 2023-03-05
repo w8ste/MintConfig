@@ -1,0 +1,13 @@
+configuration{
+    modi: "drun";
+    icon-theme: "Oranchelo";
+    show-icons: true;
+    terminal: "alacritty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: false;
+    sidebar-mode: false;
+}
+
+@theme "/usr/share/rofi/themes/DarkBlue.rasi
