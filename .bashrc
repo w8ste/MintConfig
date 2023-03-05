@@ -119,7 +119,7 @@ if ! shopt -oq posix; then
   fi
 fi
 export PATH="$PATH:$HOME/.cargo/bin"
-pfetch
+nitch
 eval "$(starship init bash)"
 
 
