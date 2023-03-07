@@ -6,3 +6,6 @@ is just such a comfortable experience).
 
 Now, in the following lines i will explain, how i made my Desktop look how it looks (xD).
 
+
+
+![Alt text](https://github.com/w8ste/global/blob/master/backgrounds/apparition.jpg)
