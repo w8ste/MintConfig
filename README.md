@@ -16,7 +16,8 @@ To start things off i recommend, that you update your system:
 ```
 Afterward you have to install the following packages:
 ```
-  sudo apt install rofi exa vim git
+  sudo apt install rofi exa 
 ```
 
 # GitHub Packages
+![Alt text](https://github.com/ssleert/nitch)
