@@ -8,4 +8,4 @@ Now, in the following lines i will explain, how i made my Desktop look how it lo
 
 
 
-![Alt text](https://github.com/w8ste/global/blob/master/backgrounds/apparition.jpg)
+![Alt text](https://github.com/w8ste/screenshotsMint/blob/main/rofi.png)
