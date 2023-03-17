@@ -16,8 +16,9 @@ To start things off i recommend, that you update your system:
 ```
 Afterward you have to install the following packages:
 ```
-  sudo apt install rofi exa 
+  sudo apt install rofi exa arc-theme
 ```
 
-# GitHub Packages
-[nitch (fetching tool)](https://github.com/ssleert/nitch)
+- [nitch (fetching tool)](https://github.com/ssleert/nitch)
+
+# Themes 
