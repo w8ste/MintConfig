@@ -20,4 +20,4 @@ Afterward you have to install the following packages:
 ```
 
 # GitHub Packages
-![Alt text](https://github.com/ssleert/nitch)
+![nitch (fetching tool)](https://github.com/ssleert/nitch)
