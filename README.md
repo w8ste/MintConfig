@@ -25,5 +25,7 @@ Afterward you have to install the following packages:
 First go into your System Setting -> Themes, apply the following changes:
 | Setting  | apply: |
 | ------------- | ------------- |
-| Mouse Pointer  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Mouse Pointer  | breeze_cursors  |
+| Applications  | Arc-Dark  |
+| Icons  | Papirus-Dark  |
+| Desktop  | Arc  |
