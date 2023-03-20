@@ -32,5 +32,5 @@ First go into your System Setting -> Themes, apply the following changes:
 
 # Theme Terminal 
 In order to theme for the terminal you need to install the "catpuccin mocha" via the 
-following repo
+following repo:
 - ![Gogh](https://github.com/Gogh-Co/Gogh)
