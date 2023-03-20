@@ -22,3 +22,8 @@ Afterward you have to install the following packages:
 - [nitch (fetching tool)](https://github.com/ssleert/nitch)
 
 # Themes 
+First go into your System Setting -> Themes, apply the following changes:
+| Setting  | apply: |
+| ------------- | ------------- |
+| Mouse Pointer  | Content Cell  |
+| Content Cell  | Content Cell  |
