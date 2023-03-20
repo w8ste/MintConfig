@@ -21,7 +21,7 @@ Afterward you have to install the following packages:
 
 - [nitch (fetching tool)](https://github.com/ssleert/nitch)
 
-# Themes 
+# Theme Desktop 
 First go into your System Setting -> Themes, apply the following changes:
 | Setting  | apply: |
 | ------------- | ------------- |
@@ -29,3 +29,8 @@ First go into your System Setting -> Themes, apply the following changes:
 | Applications  | Arc-Dark  |
 | Icons  | Papirus-Dark  |
 | Desktop  | Arc  |
+
+# Theme Terminal 
+In order to theme for the terminal you need to install the "catpuccin mocha" via the 
+following repo
+- ![Gogh](https://github.com/Gogh-Co/Gogh)
