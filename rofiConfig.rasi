@@ -1,13 +1,14 @@
 configuration{
-    modi: "drun";
+    modi: ["drun", "window"];
     icon-theme: "Papirus-Dark";
     show-icons: true;
     terminal: "gnome-terminal";
     drun-display-format: "{icon} {name}";
     location: 0;
     disable-history: false;
-    hide-scrollbar: true;
     sidebar-mode: false;
 }
 
-@theme "/usr/share/rofi/themes/DarkBlue.rasi
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+//@theme "/home/hannes/.local/share/rofi/themes/catppuccin-macchiato.rasi"
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
