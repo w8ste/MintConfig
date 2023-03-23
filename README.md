@@ -52,3 +52,7 @@ following repo:
 ```
   
 # Rofi 
+- Just replace configuration code from your rofi config (~/.config/rofi) with the configuration code in my configRofi.rasi.
+- Choose to Dark Blue Theme via the rofi-theme-selector
+
+# Bar 
