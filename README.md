@@ -18,9 +18,10 @@ Afterward you have to install the following packages:
 ```
   sudo apt install rofi exa arc-theme git 
 ```
-- Create a new Folder in your home Directory called mint_conig:
+- Create a new Folder in your home Directory called mint_conig and clone this repo (you can copy the following in case you have
+  ssh configured with github:
 ```
-  mkdir mint_config && cd mint_config && git clone https://github.com/w8ste/MintConfig
+  mkdir mint_config && cd mint_config && git clone git@github.com:w8ste/screenshotsMint.git
 ```
 - [nitch (fetching tool)](https://github.com/ssleert/nitch)
 
