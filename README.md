@@ -34,6 +34,8 @@ First go into your System Setting -> Themes, apply the following changes:
 | Icons  | Papirus-Dark  |
 | Desktop  | Arc  |
 
+- !["Wallpaper"]("https://github.com/catppuccin/wallpapers/blob/main/minimalistic/dark-cat.png")
+
 ![Alt text](https://github.com/w8ste/screenshotsMint/blob/main/Screenshot%20from%202023-03-20%2021-11-34.png)
 
 # Theme Terminal 
