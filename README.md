@@ -64,5 +64,13 @@ following repo:
   - Middle: Calander
   - Right side (from left to right):
     - Window list
-    - 
+    - Separator
+    - Favorites
+    - Sound
+    - Printers
+    - Power Manager
+    - Corner Bar
+    
+![Alt text](https://github.com/w8ste/screenshotsMint/blob/main/lvim.png)
+ 
     
