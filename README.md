@@ -42,4 +42,12 @@ First go into your System Setting -> Themes, apply the following changes:
 In order to theme for the terminal you need to install the "catpuccin mocha" via the 
 following repo:
 - ![Gogh](https://github.com/Gogh-Co/Gogh)
-- Afterwa
+- Afterwards (from your home directory) override your .bashrc file with mine (i recommend to back up your's first like so):
+ ```
+ cp .bashrc mint_config
+```
+- Now that you have a copy in mint_config, run the following code:
+ ```
+ 'cp' ~/mint_config/.bashrc .bashrc
+```
+  
