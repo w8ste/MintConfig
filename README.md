@@ -56,3 +56,13 @@ following repo:
 - Choose to Dark Blue Theme via the rofi-theme-selector
 
 # Bar 
+- Enter "Panel Edit Mode"
+- Move the bar to the top 
+- Remove all the Applets
+- Add the following Applets: 
+  - Left Side: Workspace Switcher
+  - Middle: Calander
+  - Right side (from left to right):
+    - Window list
+    - 
+    
