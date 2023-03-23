@@ -76,8 +76,7 @@ I recommend to set a keybinding for rofi / look at the appendix.
 ![Alt text](https://github.com/w8ste/screenshotsMint/blob/main/lvim.png)
 
 # Appendix 
-- For new to linux users, i recommend the following guide by DistroTube: ![DT](https://www.youtube.com/watch?v=TKX29fJ8U2Y)
-- https://www.youtube.com/watch?v=TKX29fJ8U2Y
+- For new to linux users, i recommend the following guide by DistroTube:  https://www.youtube.com/watch?v=TKX29fJ8U2Y
 - I also want to thank everyone who contributes to the software i used for this config ^^
  
     
