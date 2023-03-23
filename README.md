@@ -51,3 +51,4 @@ following repo:
  'cp' ~/mint_config/.bashrc .bashrc
 ```
   
+# Rofi 
