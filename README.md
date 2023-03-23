@@ -30,6 +30,7 @@ First go into your System Setting -> Themes, apply the following changes:
 | Icons  | Papirus-Dark  |
 | Desktop  | Arc  |
 
+![Alt text}(https://github.com/w8ste/screenshotsMint/blob/main/Screenshot%20from%202023-03-20%2021-11-34.png)
 # Theme Terminal 
 In order to theme for the terminal you need to install the "catpuccin mocha" via the 
 following repo:
