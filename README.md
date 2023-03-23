@@ -16,9 +16,12 @@ To start things off i recommend, that you update your system:
 ```
 Afterward you have to install the following packages:
 ```
-  sudo apt install rofi exa arc-theme
+  sudo apt install rofi exa arc-theme git 
 ```
-
+- Create a new Folder in your home Directory called mint_conig:
+```
+  mkdir mint_config && cd mint_config && git clone https://github.com/w8ste/MintConfig
+```
 - [nitch (fetching tool)](https://github.com/ssleert/nitch)
 
 # Theme Desktop 
@@ -36,3 +39,4 @@ First go into your System Setting -> Themes, apply the following changes:
 In order to theme for the terminal you need to install the "catpuccin mocha" via the 
 following repo:
 - ![Gogh](https://github.com/Gogh-Co/Gogh)
+- Afterwa
