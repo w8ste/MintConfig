@@ -80,7 +80,7 @@ I recommend to set a keybinding for rofi / look at the appendix.
 # Appendix 
 - For new to linux users, i recommend the following guide by DistroTube:  https://www.youtube.com/watch?v=TKX29fJ8U2Y
 - I don't take accountability, if this should introduce any bugs into your system, even though i dont think it is possible 
-  that any of the changes i made to the system have the power to do so.
+  that any of the changes i made to the system have the ability to do so.
 - I also want to thank everyone who contributes to the software i used for this config ^^
  
     
