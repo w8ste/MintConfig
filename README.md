@@ -50,6 +50,8 @@ following repo:
  ```
  'cp' ~/mint_config/.bashrc .bashrc
 ```
+- Follow the starship installation-guide (here: https://starship.rs/)
+- Install the following preset: https://starship.rs/presets/nerd-font.html
   
 # Rofi 
 - Just replace configuration code from your rofi config (~/.config/rofi) with the configuration code in my configRofi.rasi.
